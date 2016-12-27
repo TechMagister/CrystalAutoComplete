@@ -1,6 +1,8 @@
 A binding for Sublime Text to the Crystal auto completion tool
 by TechMagister (https://github.com/TechMagister/cracker).
 
+![screenshot1](https://raw.githubusercontent.com/TechMagister/CrystalAutoComplete/master/screenshots/screenshot1.png)
+
 Features
 ========
 
@@ -37,7 +39,3 @@ Requirements
         "cracker": "cracker",
     }
 
-Contact
-=======
-
-https://github.com/TechMagister/CrystalAutoComplete
