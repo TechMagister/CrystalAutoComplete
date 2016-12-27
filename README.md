@@ -19,7 +19,7 @@ Requirements
 ============
 
 1) Install the Crystal syntax highlighting package from Package Control:
-    (see here : https://github.com/crystal-lang/sublime-crystal )
+   [crystal-lang/sublime-crystal](https://github.com/crystal-lang/sublime-crystal)
 
 2) Clone and build the auto completion tool cracker:
     https://github.com/TechMagister/cracker
